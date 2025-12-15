@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Info File="scripts/deinitialization/clear_trash.m" GroupUUID="default" Icon="" Name="clear_trash" Type="Shutdown" Visible="0">
+    <Extension Name="ShutdownPrev" Value="c0eb59bd-789f-4caa-8184-55afd276dc26"/>
+</Info>
