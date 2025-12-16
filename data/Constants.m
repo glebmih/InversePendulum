@@ -12,6 +12,7 @@ J_motor = 1.53e-4;
 vis_friction_coef_motor = 0.001;
 
 i_gear = 100;
+k_rack = 2000;
 J_gear = 0.001;
 vis_friction_coef_gear = 0.001;
 
